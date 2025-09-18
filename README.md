@@ -11,7 +11,7 @@
 ## 🚀 What is Cloud Notes?
 
 > A notepad for your team, but with superpowers.  
-> Imagine if Notion and GitHub had a baby, and it was raised by Python developers who love memes.
+> Imagine if Notion and GitHub had a baby, and it was raised by Python developer who love memes.
 
 - **Simple UI**: Like jotting on a sticky note, but way more organized.
 - **Cloud-based**: Available anywhere, even in the shower (not recommended).
@@ -24,11 +24,11 @@
 ## 🤔 Why Use Cloud Notes?
 
 - **Tired of Confluence?**  
-  Us too. We made something more fun.
+  Me too. I made something more fun.
 - **Want markdown, but also emojis?**  
   You got it.
 - **Need search, but hate boring search bars?**  
-  We make finding notes feel like a treasure hunt.
+  I make finding notes feel like a treasure hunt.
 
 ---
 
