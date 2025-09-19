@@ -1,0 +1,10 @@
+How to Use
+    Save the schema as schema.sql
+
+Run the schema in your PostgreSQL database:
+    bash
+        psql -U your_db_user -d your_db_name -f schema.sql
+
+Integrate with FastAPI:
+    Use SQLAlchemy or Tortoise ORM for Python.
+    Map these tables to models for CRUD operations.
